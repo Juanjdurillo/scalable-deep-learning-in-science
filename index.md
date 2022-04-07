@@ -1,8 +1,8 @@
 ## Scalable Deep Learning In Science: From Development to Production
 
-This page aims at collect some material samples used by the presenters in the past. The content linked in this page is not the final material, yet the final material will be mainly based in the content linked here. 
+This page aims at collect some material samples used by the presenters in the past. *The content linked in this page is not the final material*, yet the final material will be mainly based in the content linked here. 
 
-Examples of these materials can be found in the followin links:
+Examples of these materials can be found in the following links:
 
 * [Getting started with Deep Learning: A gentle introduction and working example](https://syncandshare.lrz.de/getlink/fiBhhAWsBe4N6aZ1RJw7jsvS/combiomed.seminar.slides.pdf)
 
