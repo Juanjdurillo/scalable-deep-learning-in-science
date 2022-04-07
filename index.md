@@ -5,6 +5,7 @@ This page aims at collect some material samples used by the presenters in the pa
 Examples of these materials can be found in the followin links:
 
 * [Getting started with Deep Learning: A gentle introduction and working example](https://syncandshare.lrz.de/getlink/fiBhhAWsBe4N6aZ1RJw7jsvS/combiomed.seminar.slides.pdf)
+
 * [Introduction to Machine Learning and Deep Learning by IT4I](https://events.it4i.cz/event/131/)
   * [1_Introduction_to_scikit-learn](https://events.it4i.cz/event/131/attachments/428/1632/1_Introduction_to_scikit-learn.pdf)
   * [2_scikit-learn_Optimization](https://events.it4i.cz/event/131/attachments/428/1633/2_scikit-learn_Optimization.pdf)
@@ -12,9 +13,12 @@ Examples of these materials can be found in the followin links:
   * [5_Introduction_Deep_Neural_Networks](https://events.it4i.cz/event/131/attachments/428/1635/5_Introduction_Deep_Neural_Networks.pdf)
   * [6_Tensorflow_Keras](https://events.it4i.cz/event/131/attachments/428/1636/6_Tensorflow_Keras.pdf)
   * [7_Multi-GPU_Horovod](https://events.it4i.cz/event/131/attachments/428/1637/7_Multi-GPU_Horovod.pdf) 
+
 * [Efficient multi-GPU and multi-node execution of AI applications and framworks on the GPU nodes of Karolina supercomputing](https://events.it4i.cz/event/124/)
   * [Multi-GPU_DL_ML](https://events.it4i.cz/event/124/attachments/412/1537/Multi-GPU_DL_ML.pdf)
+
 * [Fundamentals of Deep Learning (collaboration with Nvidia Deep Learning Institute)](https://doku.lrz.de/download/attachments/81397038/FundamentalsOfDeepLearningNvidia%26Durillo.pdf?version=1&modificationDate=1626158886817&api=v2)
+
 * [Get Started with Intel and NVIDIA Artificial Intelligence Technologies](https://events.it4i.cz/event/37/)
   * [INAITech-11-2019-01-Intel_Hardware](https://events.it4i.cz/event/37/attachments/114/252/INAITech-11-2019-01-Intel_Hardware_.pdf)
   * [INAITech-11-2019-02_AI-LAB](https://events.it4i.cz/event/37/attachments/114/253/INAITech-11-2019-02_AI-LAB.pdf)
